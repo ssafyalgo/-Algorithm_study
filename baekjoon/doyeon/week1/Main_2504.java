@@ -3,50 +3,44 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
-/**
- * 백준 2504번. 괄호의 값
- */
 public class Main_2504 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder sb = new StringBuilder();
+        String  N = br.readLine();
+        Stack<Character> stack = new Stack<>();
+        int result = 0;
+        int value = 1;
 
-        String s=br.readLine();
-        int result=0;
-        char prev=' ';
-        Stack<Character> p = new Stack<Character>();
-
-        for (int i = 0; i < s.length(); i++) {
-            switch (s.charAt(i)){
-                case ')':
-                    if(p.peek()=='('){
-                        if(prev==s.charAt(i))
-                            result*=2;
-                        else
-                            result+=2;
-                        prev=')';
-                        p.pop();
-                    }
+        for(int i = 0; i < N.length(); i++) {
+            if(N.charAt(i) == '(') {
+                stack.push(N.charAt(i));
+                value *= 2; //( : 2
+            } else if(N.charAt(i) == '[') {
+                stack.push(N.charAt(i));
+                value *= 3; //[ : 3
+            } else if(N.charAt(i) == ')') {
+                if(stack.isEmpty() || stack.peek() != '(') {
+                    result = 0;
                     break;
-                case ']':
-                    if(p.peek()=='['){
-                        if(prev==s.charAt(i))
-                            result*=2;
-                        else
-                            result+=2;
-                        prev=']';
-                        p.pop();
-                    }
+                } else if(N.charAt(i-1) == '(') {
+                    result += value;
+                }
+                stack.pop();
+                value /= 2;
+            } else if(N.charAt(i) == ']') {
+                if (stack.isEmpty() || stack.peek() != '[') {
+                    result = 0;
                     break;
-                default:
-                    p.push(s.charAt(i));
-                    break;
+                } else if (N.charAt(i - 1) == '[') {
+                    result += value;
+                }
+                stack.pop();
+                value /= 3;
             }
-//            if(i==s.length()-1){
-//            }
         }
-        if(!p.empty())
-            result=0;
-
-        System.out.println(result);
+        if(!stack.isEmpty()) sb.append(0).append("\n");
+        else sb.append(result).append("\n");
+        System.out.println(sb);
     }
 }
