@@ -123,6 +123,6 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ |  5397 | [키로거](https://www.acmicpc.net/problem/5397) | 스택,큐,정렬 | silver2 |
 | BOJ |  1182 | [부분수열의합](https://www.acmicpc.net/problem/1182) | 브루트포스 | silver2 |
 | BOJ |  2644 | [촌수계산](https://www.acmicpc.net/problem/2644) | 탐색 | silver2 |
-| BOJ | 17502 | [클레어와 팰린드롬 ](https://www.acmicpc.net/problem/17052) | 문자열| bronze4 |
-| BOJ | 11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | BFS와DFS| silver2 |
+| BOJ | 17502 | [클레어와 팰린드롬 ](https://www.acmicpc.net/problem/17502) | 문자열| bronze4 |
+| BOJ | 11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | BFS와 DFS| silver2 |
 
