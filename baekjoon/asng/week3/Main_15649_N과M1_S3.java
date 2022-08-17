@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main_15649_N과M1_S3 {
+public class Main_15649_N과M1_S3 {	//맞았는데 너무 오래걸림,, 다른방법은?
 
 	static int N, M;
 	static int[] nums;
@@ -20,10 +20,10 @@ public class Main_15649_N과M1_S3 {
 		
 		nums = new int[M];
 		visited = new boolean[N+1];
-		subset(0);
+		Perm(0);
 	}
 
-	private static void subset(int cnt) {
+	private static void Perm(int cnt) {
 		if (cnt == M) {
 			for (int i = 0; i < M; i++) {
 				System.out.print(nums[i] + " ");
@@ -35,10 +35,8 @@ public class Main_15649_N과M1_S3 {
 				if (!visited[i]) {
 					visited[i] = true;
 					nums[cnt] = i;
-					subset(cnt+1);
+					Perm(cnt+1);
 					visited[i] = false;
-					
-					
 				}
 			}
 		}
