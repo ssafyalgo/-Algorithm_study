@@ -126,3 +126,12 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | 17502 | [클레어와 팰린드롬 ](https://www.acmicpc.net/problem/17502) | 문자열| bronze4 |
 | BOJ | 11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | BFS와 DFS| silver2 |
 
+### 🚩 week 3
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ |  7576 | [토마토](https://www.acmicpc.net/problem/7576) | DFS와 BFS | gold5 |
+| BOJ |  9372 | [상근이의 여행](https://www.acmicpc.net/problem/9372) | 부분집합 | silver4 |
+| BOJ | 17070 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | a형 기출 | gold5 |
+| BOJ |  1406 | [에디터](https://www.acmicpc.net/problem/1406) | 문자열, 스택, 정렬| silver2 |
+| BOJ | 15649 | [N과 M (1)](https://www.acmicpc.net/problem/15649) | 브루트포스 | silver3 |
+| BOJ | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | 브루트포스 | silver3 |
