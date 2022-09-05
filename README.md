@@ -140,5 +140,5 @@ SSAFY 5기 서울 15반 알고리즘 스터디 기록
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 17136 | [색종이 붙이기](https://www.acmicpc.net/problem/17136) | 브루트포스 | gold2 |
-| BOJ | 15684 | [사다리 조작](https://www.acmicpc.net/problem/15684) |  | gold3 |
+| BOJ | 15684 | [사다리 조작](https://www.acmicpc.net/problem/15684) | 브루트포스 | gold3 |
 | SWEA|  1770 | [블록 부품 맞추기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4szU-qXKYDFAUf) | SW Test 샘플 |  |
