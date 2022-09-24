@@ -154,4 +154,4 @@ SSAFY 5기 서울 15반 알고리즘 스터디 기록
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 19238 | [스타트 택시](https://www.acmicpc.net/problem/19238) | a형 기출 | gold2 |
-| BOJ | 20055 | [나무 재테크](https://www.acmicpc.net/problem/20055) | a형 기출 | gold5 |
+| BOJ | 20055 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | a형 기출 | gold5 |
