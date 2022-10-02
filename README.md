@@ -146,15 +146,15 @@ SSAFY 5기 서울 15반 알고리즘 스터디 기록
 ### 🚩 week 5
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
-| BOJ | 17140 | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | a형 기출 | gold4 |
-| BOJ | 16235 | [나무 재테크](https://www.acmicpc.net/problem/16235) | a형 기출 | gold3 |
+| BOJ | 17140 | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | 구현 | gold4 |
+| BOJ | 16235 | [나무 재테크](https://www.acmicpc.net/problem/16235) | 구현 | gold3 |
 | SWEA | 2382 | [미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl) | 모의 SW 역량테스트 |  |
 
 ### 🚩 week 6
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
-| BOJ | 19238 | [스타트 택시](https://www.acmicpc.net/problem/19238) | a형 기출 | gold2 |
-| BOJ | 20055 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | a형 기출 | gold5 |
+| BOJ | 19238 | [스타트 택시](https://www.acmicpc.net/problem/19238) | 구현, BFS | gold2 |
+| BOJ | 20055 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | 구현 | gold5 |
 
 ### 🚩 week 7
 | Type | 문제 | 제목 | 유형 | rank |
