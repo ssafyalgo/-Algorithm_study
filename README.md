@@ -155,3 +155,10 @@ SSAFY 5기 서울 15반 알고리즘 스터디 기록
 | -- |--| -- |--|--|
 | BOJ | 19238 | [스타트 택시](https://www.acmicpc.net/problem/19238) | a형 기출 | gold2 |
 | BOJ | 20055 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | a형 기출 | gold5 |
+
+### 🚩 week 7
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 20061 | [모노미노도미노 2](https://www.acmicpc.net/problem/20061) | 구현 | gold2 |
+| BOJ | 17142 | [연구소 3](https://www.acmicpc.net/problem/17142) | 브루트포스 | gold4 |
+| SWEA | 4014 | [활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH&) | 모의 SW 역량테스트 |  |
