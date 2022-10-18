@@ -170,3 +170,17 @@ SSAFY 5기 서울 15반 알고리즘 스터디 기록
 | SWEA | 2115 | [벌꿀채취](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu) | 모의 SW 역량테스트 |  |
 | SWEA | 2105 | [디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu) | 모의 SW 역량테스트 |  |
 | SWEA | 1949 | [등산로 조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq) | 모의 SW 역량테스트 |  |
+
+### 🚩 week 9
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| programmers | 84021 | [퍼즐조각채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021) | DFS/BFS | Level3 |
+| programmers | 43164 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | DFS/BFS | Level3 |
+| programmers | 49191 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | 그래프 | Level3 |
+| programmers | 49189 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | 그래프 | Level3 |
+| programmers | 42895 | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | DP | Level3 |
+| programmers | 42747 | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | 정렬 | Level2 |
+| programmers | 42746 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | 정렬 | Level2 |
+| programmers | 42576 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | 해시 | Level1 |
+| programmers | 1845 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | 해시 | Level1 |
+| programmers | 42862 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | 그리디 | Level1 |
