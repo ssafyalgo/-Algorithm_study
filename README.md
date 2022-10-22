@@ -189,7 +189,7 @@ SSAFY 5기 서울 15반 알고리즘 스터디 기록
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | programmers | 12906 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | 스택/큐 | Level1 |
-| programmers | 42586 | [기능개발(https://school.programmers.co.kr/learn/courses/30/lessons/42586) | 스택/큐 | Level2 |
+| programmers | 42586 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | 스택/큐 | Level2 |
 | programmers | 86491 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | 완전탐색 | Level1 |
 | programmers | 42842 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | 완전탐색 | Level2 |
 | programmers | 43165 | [타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | DFS/BFS | Level2 |
