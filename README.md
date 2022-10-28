@@ -193,3 +193,14 @@ SSAFY 5기 서울 15반 알고리즘 스터디 기록
 | programmers | 86491 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | 완전탐색 | Level1 |
 | programmers | 42842 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | 완전탐색 | Level2 |
 | programmers | 43165 | [타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | DFS/BFS | Level2 |
+
+### 🚩 week 11
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| programmers | 49189 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | 그래프 | Level3 |
+| programmers | 43162 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | DFS/BFS | Level3 |
+| programmers |  1844 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | DFS/BFS | Level2 |
+| programmers | 42577 | [전화번호목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | 해시 | Level2 |
+| programmers | 42583 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 스택/큐 | Level2 |
+| programmers | 42587 | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | 스택/큐 | Level2 |
+| programmers | 87946 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 완전탐색 | Level2 |
