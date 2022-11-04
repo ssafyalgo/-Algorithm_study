@@ -204,3 +204,12 @@ SSAFY 5기 서울 15반 알고리즘 스터디 기록
 | programmers | 42583 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 스택/큐 | Level2 |
 | programmers | 42587 | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | 스택/큐 | Level2 |
 | programmers | 87946 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 완전탐색 | Level2 |
+
+### 🚩 week 12
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| SWEA | 4193 | [수영대회 결승전](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWKaG6_6AGQDFARV&categoryId=AWKaG6_6AGQDFARV&categoryType=CODE) | 완전탐색 | D4 |
+| programmers | 87694 | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | DFS/BFS | Level3 |
+| programmers | 86971 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | 완전탐색 | Level2 |
+| programmers | 84512 | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | 완전탐색 | Level2 |
+| programmers | 42861 | [섬연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | 그리디 | Level3 |
